@@ -3,6 +3,9 @@ This repository captures cutting-edge research papers on multimodal and heteroge
 # Federated Learning Security and Privacy
  1. [2022 ACM TIST] **No Free Lunch Theorem for Security and Utility in Federated Learning.** [paper](https://dl.acm.org/doi/abs/10.1145/3563219)
  2. [2024 ACM TIST] **Optimizing Privacy, Utility, and Efficiency in a Constrained Multi-Objective Federated Learning Framework.** [paper](https://dl.acm.org/doi/abs/10.1145/3701039)
+ 3. [2024 TKDE]**PrivFusion: Privacy-Preserving Model Fusion via Decentralized Federated Graph Matching**[paper](https://ieeexplore.ieee.org/abstract/document/10643309)
+ 4. [2024 ICDE]**Model Trip: Enhancing Privacy and Fairness in Model Fusion across Multi-Federations for Trustworthy Global Healthcare.**[paper](https://ieeexplore.ieee.org/abstract/document/10597838)
+ 5. 
 # Federated Teacher - Student Model 
  1. [2023 Arxiv] **Mutual enhancement of large and small language models with cross-silo knowledge transfer.** [paper](https://arxiv.org/abs/2312.05842)
  2. [2025 EMNLP] **PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation.**[paper](https://aclanthology.org/anthology-files/anthology-files/pdf/emnlp/2025.emnlp-main.747.pdf)
@@ -12,6 +15,13 @@ This repository captures cutting-edge research papers on multimodal and heteroge
 # Multimodal Federated Learning
  1. [2025 Arxiv]**Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach**[paper](https://arxiv.org/abs/2509.19955)
 # Heterogeneous Federated Learning System
+ ## Heterogeneous Noise
+ 1.[2024 IJCAI]**FedES: Federated Early-Stopping for Hindering Memorizing Heterogeneous Label Noise.**[paper](https://www.ijcai.org/proceedings/2024/0599.pdf)
+ 2.[2022 TNNLS]**Federated Data Quality Assessment Approach: Robust Learning with Mixed Label Noise**[paper](https://ieeexplore.ieee.org/abstract/document/10236466)
+ 3.[2022 ACM TIST]**CLC: A Consensus-based Label Correction Approach in Federated Learning.**[paper](https://dl.acm.org/doi/full/10.1145/3519311)
+ ## Heterogeneous Model Scale
+ 1.[2024 JCST]**FedBone: Towards Large-Scale Federated Multi-Task Learning.**[paper](https://link.springer.com/article/10.1007/s11390-024-3639-x)
+ 2.[2025 TNNLS]**ZOOPFL: Exploring Black-box Foundation Models for Personalized Federated Learning**[paper](https://link.springer.com/chapter/10.1007/978-3-031-82240-7_2)
 
 # Accelerating Encrypted Federated Learning
 
